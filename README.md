@@ -14,12 +14,10 @@
 > 娱乐榜，既不公平，也不公正，仅供娱乐
 > 
 > 数据来源 Telegram 各大机场群组
-> 
-> 根据最近 6 个月群友热议排名
-> 
-> 可以提建议，听不听另说
 >
-> 数据不对吗，那是 AI 的锅
+> 根据最近 6 个月群友讨论排名
+>
+> 数据不对吗，这个锅 AI 背了
 
 | Date　　 | Name　　　　　 | Type | Periodic　　　　　　　　　　　 | Unlimited　　　　 | Channel | Group | Last6Months　　　　　　　　　　 | MonthBeforeLast　　　　　　　　 | LastMonth　　　　　　　　　 | Last30Days　　　　　　　　　　　 |
 | :--- | :--- | :--- | ---: | ---: | :--- | :--- | :--- | :--- | :--- | :--- |
