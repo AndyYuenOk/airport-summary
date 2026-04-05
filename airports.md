@@ -24,7 +24,7 @@
 | [肯の机](https://kendeji.io/#/dashboard) | 979 | - | 100G/M ¥30/M ¥360/Y | - | 2026-01 | Direct |
 | [CreamData](https://creamdata.net/User/MemberService) | 5,550 | 3,496 | 200G/M ¥29/M ¥298/Y | - | 2022-02 | Relay |
 | [魅影极速](https://maying.co/user/shop) | 15,600 | - | 400G/Q ¥180/Q | - | 2022-02 | - |
-| [山海](https://shanhai.me/#/shop) | 11,400 | 4,146 | 128G/M ¥15/M ¥150/Y | 128G/￥25 | 2025-03 | Relay |
+| [山海](https://shanhai.me/#/shop) | 11,400 | 4,146 | 128G/M ¥15/M ¥150/Y | 128G/¥20 | 2026-04 | Relay |
 | [神龙机场](https://shenlong.wiki/#/stage/buysubs) | 556 | 1,950 | 100G/M ¥10/M ¥100/Y | 256G/¥45 | 2023-11 | Relay |
 | [EdNovas云](https://ednovas.org/#/stage/buysubs) | 6,160 | 8,158 | 25G/M ¥55/Y <br> 100G/M ¥20/M ¥118/Y | - | 2022-03 | Relay |
 | [青云梯](https://qingyunti.cc/shop) | 268 | 3,241 | 60G/M ¥96/Y <br> 150G/M ¥25/M ¥240/Y | - | 2022-03 | Relay |
