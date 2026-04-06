@@ -31,7 +31,7 @@
 | [FastLink](https://fastlink.ws/user/shop) | 4,310 | - | 50G/M ¥90/Y <br> 200G/M ¥20/M ¥190/Y | - | - | 2022-02 | Relay |
 | [CloudFisher](https://cloudfisher.net/web/#/plan) | 12,500 | 9,548 | 148G/M ¥60/Y <br> 120G/M ¥9/M | 300G/¥40 | 2026-04-06 | 2026-04 | Relay |
 | [M78星云](https://m78star.cloud/#/shop) | 2,315 | - | 80G/M ¥7.8/M ¥88/Y | 300G/¥99 | - | 2023-10 | Relay |
-| [农夫山泉](https://qqq.nfsq.us/#/plan) | - | - | 200G/M ¥8.00/M ¥40.00/6M ¥24.00/Q ¥80.00/Y | 200G/¥15.00 | 2026-04-06 | 2026-04 | Relay |
+| [农夫山泉](https://qqq.nfsq.us/#/plan) | - | - | 200G/M ¥8/M ¥24/3M ¥40/6M ¥80/Y | 200G/¥15.00 | 2026-04-06 | 2026-04 | Relay |
 | [次元雲](https://ciyy.cc/#/shop) | 1,155 | - | 128G/M ¥10/M 158G/M ¥108/Y | 520G/¥90 | - | 2022-03 | Relay |
 | [夜煞云](https://www.night-furyx.com/index.php#/plan) | 8,430 | 6,021 | 50G/Y ¥58/Y <br> 138G/M ¥10/M | 400G/¥106 | 2026-04-06 | 2026-04 | Relay |
 | [自由猫](https://freecat.cloud/console/plan) | 5,100 | 4,197 | 30G/M ¥6/M ¥72/Y | 500G/￥50 | - | 2023-02 | Relay |
@@ -42,8 +42,8 @@
 | [魔戒](https://mojie.app/shop) | 56,200 | 91,507 | - | 2G/¥1 <br> 130G/¥14.9 | 2026-04-06 | 2026-04 | - |
 | [咸鱼加速器](https://nexuscloud.ch/cart.php) | 934 | - | 100G/M ¥20/M ¥198/Y | - | - | 2022-03 | - |
 | [泡芙云](https://paofu.cloud/user/shop) | 4,880 | 11,771 | 50G/M ¥10/M ¥130/Y | - | - | 2022-02 | - |
-| [ssLinks](https://ss.mba/#/plan) | 3,613 | - | 100G/M ¥84/Q ¥336/Y | - | - | 2022-02 | - |
-| [TKV](https://portal.tkv.one/order/speedx/speedx-air) | 2,840 | - | 50G/M ¥10/M ¥51/6M ¥27/Q ¥96/Y | - | 2026-04-06 | 2026-04 | - |
+| [ssLinks](https://ss.mba/#/plan) | 3,613 | - | 30G/Y ¥168/Y <br> 100G/3M ¥84/3M <br> 300G/M ¥40/M | - | 2026-04-06 | 2026-04 | - |
+| [TKV](https://portal.tkv.one/order/speedx/speedx-air) | 2,840 | - | 50GB/M ¥10/M ¥27/3M ¥51/6M ¥96/Y <br> 100GB/M ¥20/M <br> 250GB/M ¥50/M <br> 500GB/M ¥80/M | - | 2026-04-06 | 2026-04 | - |
 | [白月光](https://bygcloud.com/store) | 17,100 | - | 100G/M ¥66/Q ¥264/Y | - | - | 2022-02 | - |
-| [V2Tun](https://cp.v2-tun.net/cart.php) | 3,272 | - | 100G/M ¥42/Q ¥138/Y | - | - | 2022-02 | - |
+| [V2Tun](https://cp.v2-tun.net/cart.php) | 3,272 | - | 100G/3M ¥42/3M ¥138/Y | - | 2026-04-06 | 2026-04 | - |
 | [海豚湾](https://hitun.io/user/shop) | 11,900 | - | 750G/Q ¥90/Q 3500G/Y ¥350/Y | - | - | 2022-02 | - |
