@@ -1,6 +1,6 @@
 # 机场列表
 
-| Name　　　　　 | Channel | Group | Periodic　　　　　　　　　　　 | Unlimited　　　　 | Updated | Date　　 | Type |
+| Name　　　　　 | Channel | Group | Periodic　　　　　　　　　　　 | Unlimited　　　　 | Updated　　 | Date　　 | Type |
 | :--- | :--- | :--- | ---: | ---: | :--- | :--- | :--- |
 | [Nexitally](https://nexitally.com/Price.aspx) | 19,200 | - | 200G/M ¥71/M ¥360/6M ¥624/Y | - | - | 2026-04 | Relay |
 | [LinkCube](https://linkcube.org/cart.php) | 5,889 | - | 100G/M ¥15/M ¥145/Y | - | - | 2022-03 | Relay |
