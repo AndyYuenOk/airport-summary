@@ -751,22 +751,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 
 </details>
 
-<details>
-
-<summary>机场讨论集中在节点不稳定、客户端/分流配置问题，以及良心云、花云、守候、DMIT、搬瓦工等机场和线路的价格、可用性与活动信息上。 03-11 23:52</summary>
-
-* 多名用户反馈花云、守候、DMIT、搬瓦工等节点出现不可用、timeout、路由异常或速度波动。  03-11 00:00 ~ 03-11 23:52
-
-* 围绕自建与机场的对比讨论较多，涉及节点配置、线路选择、VPS成本和中转方案。  03-11 00:00 ~ 03-11 23:52
-
-* 良心云被频繁提到，内容集中在优惠码、周年活动、价格与口碑变化。  03-11 00:00 ~ 03-11 23:52
-
-* Shadowrocket、ClashVergeRev、Surge、FlClash等客户端的连接、分流、导入配置问题被多次讨论。  03-11 00:00 ~ 03-11 23:52
-
-* 也有用户在问便宜稳定机场、按量机场、回国套餐、游戏机场等选择建议。  03-11 00:00 ~ 03-11 23:52
-
-</details>
-
 ## 鸡场总结
 
 <details>
@@ -2079,19 +2063,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 
 </blockquote>
 
-<blockquote>
-
-<details>
-<summary>花云相关内容以可用性和稳定性反馈为主，也被放在机场选择对比里讨论。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 有用户说花云“被打了”“不稳定”，并提到在Surge里出现Noroutetohost、路由走en0等情况。
-- 也有人在选择机场时直接提到“暂时用花云”“换个奶昔花云就不弹了”。
-- 讨论里还出现花云和守候一起被提及，用来对比不同节点的状态。
-
-</details>
-
-</blockquote>
-
 </details>
 
 <details>
@@ -2594,19 +2565,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 
 </blockquote>
 
-<blockquote>
-
-<details>
-<summary>良心云相关讨论主要集中在优惠活动、价格和部分用户对其稳定性的反馈。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 有人提到元旦、春节和周年店庆活动，优惠码包括LXY和周年庆相关码。
-- 聊天里多次出现“良心云”“赔钱”等说法，也有人直接评价口碑在变差、限制越来越多。
-- 有用户把它列为“经济实惠的节点”或“性价比之神”，也有人提到今晚有5折、6折、7折码。
-
-</details>
-
-</blockquote>
-
 </details>
 
 <details>
@@ -3088,19 +3046,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 
 </blockquote>
 
-<blockquote>
-
-<details>
-<summary>自建节点被频繁讨论，内容涉及节点搭建、维护、成本和中转选择。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 不少人提到“自建得提上日程”“如果怀疑就自建”。
-- 讨论中涉及VLESS、REALITY、socks5overtls、XHTTP、Trojan等配置或协议。
-- 也有人讨论自建成本与中转成本，提到5块一个月的中转、50刀可玩不限速中转等说法。
-
-</details>
-
-</blockquote>
-
 </details>
 
 <details>
@@ -3469,19 +3414,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 - 有人说“我准备买那个守候网络看看”。
 - 有用户提到“白天还行，到晚高峰也不行了”，也有“守候emby确实顶”的反馈。
 - 讨论里还出现“有守候公益了”“守候我都是奔着emby去的”。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>守候网络被多次提到，主要是节点可用性、速度和解锁情况的反馈。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 有用户说守候“都没解锁tiktok”“用着这么慢”。
-- 也有人反馈守候处于“半失联状态”，并提到“VTS重点照顾对象了”。
-- 在机场对比里，守候经常和花云一起出现，用来描述当前节点体验。
 
 </details>
 
@@ -5623,6 +5555,99 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 
 <details>
 
+<summary>【ImmTelecom】Imm被零星提到，主要是问节点是否炸了。 04-09 23:46</summary>
+
+<blockquote>
+
+<details>
+<summary>Imm被零星提到，主要是问节点是否炸了。  04-09 17:01 ~ 04-09 23:46</summary>
+
+- 有用户问imm美日是不是炸了。
+- 该话题讨论量不多，属于零星提及。
+
+</details>
+
+</blockquote>
+
+<blockquote>
+
+<details>
+<summary>IMM主要被用来和Amy对比，讨论集中在近期断流和可用性。  04-09 14:22 ~ 04-09 17:01</summary>
+
+- 有人说IMM最近断得厉害，也有人表示自己这边不行。
+- 有用户把IMM和Amy进行横向套餐对比，关注同流量价格差异。
+- 也有人表示IMM仍能正常使用，表现因地区或运营商不同而异。
+
+</details>
+
+</blockquote>
+
+<blockquote>
+
+<details>
+<summary>Imm被提到时，多数是在问是否连不上、是否已恢复，以及和奶昔相比的状态。  04-08 14:35 ~ 04-08 17:35</summary>
+
+- 有用户说Imm“连不上”或“还在抽”。
+- 也有人反馈Imm已经全绿、已经好了。
+- 讨论里还出现了对不同运营商下Imm表现的对比。
+- 整体看是短时波动与恢复状态的确认。
+
+</details>
+
+</blockquote>
+
+<blockquote>
+
+<details>
+<summary>Imm主要被问到是否还能用，以及是否需要换入口或重新订阅。  04-08 00:00 ~ 04-08 11:08</summary>
+
+- 有人直接问Imm怎么用不了了、买了Imm的能不能用。
+- 群里出现“IM都没修”“休息几天了”的说法。
+- 也有人把Imm和奶昔、库洛米一起列为同类机场讨论。
+
+</details>
+
+</blockquote>
+
+<blockquote>
+
+<details>
+<summary>Imm只是零星出现，主要是被提到换成直连。  04-07 17:22 ~ 04-07 20:51</summary>
+
+- 有人提到“imm咋换了直连”。
+- 没有形成持续讨论。
+
+</details>
+
+</blockquote>
+
+<blockquote>
+
+<details>
+<summary>Imm仅被零星提到，主要出现在机场对比和近期可用性提问中。  03-23 00:00 ~ 03-23 22:57</summary>
+
+- 有用户把Imm和库洛米、TAG、奶油放在一起问最近是否稳定。
+- 没有形成更深入的讨论。
+
+</details>
+
+</blockquote>
+
+<blockquote>
+
+<details>
+<summary>ImmTelecom被零星提到，主要是作为可考虑的机场选项。  03-13 00:18 ~ 03-13 23:45</summary>
+
+- 有用户直接说“immtelecom可以考虑一下”。
+
+</details>
+
+</blockquote>
+
+</details>
+
+<details>
+
 <summary>【BandwagonHost】搬瓦工主要在被当作VPS或线路选项讨论，内容围绕价格和可用性。 04-09 23:46</summary>
 
 <blockquote>
@@ -5701,19 +5726,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 - 有人提到搬瓦工流量多，并用它做反代。
 - 讨论中还出现“美西不就是50刀完事”“搬瓦工美国备用”等说法。
 - 有用户表示转公益后会改用稳定的美西VPS反代。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>搬瓦工主要被拿来和DMIT、良心云比较价格和活动款差异。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 有人问搬瓦工正价、打折价格和是否比DMIT更便宜。
-- 讨论里提到“没补货的那是活动款”，以及“瓦工没见涨”。
-- 也有人把搬瓦工和DMIT一起放进“大厂被封”的讨论里。
 
 </details>
 
@@ -5801,112 +5813,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 - 有人提到“DMIT怎么移动延迟翻倍呢”。
 - 话题里更多是拿它和其他线路做对比。
 - 整体讨论偏使用体验和线路表现。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>DMIT的讨论集中在IP状态、价格变化和作为线路机的使用方式。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 有人说DMIT现在“只能当线路机了”，也有人提到“IP已经被搞脏了”。
-- 有用户提到DMIT涨价，并问瓦工会不会也涨。
-- 讨论中也有“裸ss的dmit还活着”“合租的ssdmit也没事”等可用性反馈。
-
-</details>
-
-</blockquote>
-
-</details>
-
-<details>
-
-<summary>【ImmTelecom】Imm被零星提到，主要是问节点是否炸了。 04-09 23:46</summary>
-
-<blockquote>
-
-<details>
-<summary>Imm被零星提到，主要是问节点是否炸了。  04-09 17:01 ~ 04-09 23:46</summary>
-
-- 有用户问imm美日是不是炸了。
-- 该话题讨论量不多，属于零星提及。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>IMM主要被用来和Amy对比，讨论集中在近期断流和可用性。  04-09 14:22 ~ 04-09 17:01</summary>
-
-- 有人说IMM最近断得厉害，也有人表示自己这边不行。
-- 有用户把IMM和Amy进行横向套餐对比，关注同流量价格差异。
-- 也有人表示IMM仍能正常使用，表现因地区或运营商不同而异。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>Imm被提到时，多数是在问是否连不上、是否已恢复，以及和奶昔相比的状态。  04-08 14:35 ~ 04-08 17:35</summary>
-
-- 有用户说Imm“连不上”或“还在抽”。
-- 也有人反馈Imm已经全绿、已经好了。
-- 讨论里还出现了对不同运营商下Imm表现的对比。
-- 整体看是短时波动与恢复状态的确认。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>Imm主要被问到是否还能用，以及是否需要换入口或重新订阅。  04-08 00:00 ~ 04-08 11:08</summary>
-
-- 有人直接问Imm怎么用不了了、买了Imm的能不能用。
-- 群里出现“IM都没修”“休息几天了”的说法。
-- 也有人把Imm和奶昔、库洛米一起列为同类机场讨论。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>Imm只是零星出现，主要是被提到换成直连。  04-07 17:22 ~ 04-07 20:51</summary>
-
-- 有人提到“imm咋换了直连”。
-- 没有形成持续讨论。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>Imm仅被零星提到，主要出现在机场对比和近期可用性提问中。  03-23 00:00 ~ 03-23 22:57</summary>
-
-- 有用户把Imm和库洛米、TAG、奶油放在一起问最近是否稳定。
-- 没有形成更深入的讨论。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>ImmTelecom被零星提到，主要是作为可考虑的机场选项。  03-13 00:18 ~ 03-13 23:45</summary>
-
-- 有用户直接说“immtelecom可以考虑一下”。
 
 </details>
 
@@ -6252,39 +6158,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 - 有人问国内网站链接登录不上、重新下配置文件不行。
 - 回复里建议校准系统时间、更换DNS或直接去官方重新拉链接。
 - 也有人追问为什么打不开，以及是否是新版软件问题。
-
-</details>
-
-</blockquote>
-
-</details>
-
-<details>
-
-<summary>【Shadowrocket】Shadowrocket相关内容主要是配置、导入和使用问题。 03-24 23:47</summary>
-
-<blockquote>
-
-<details>
-<summary>Shadowrocket相关内容主要是配置、导入和使用问题。  03-24 00:28 ~ 03-24 23:47</summary>
-
-- 有人问VPN购买链接、订阅打不开、节点是否可用等问题。
-- 有消息提到懒人配置、更新配置文件后重启会恢复默认节点。
-- 也有关于小火箭能否使用美国IP、节点和S5的讨论。
-- 有用户建议不行就重装代理软件并换FLClash。
-
-</details>
-
-</blockquote>
-
-<blockquote>
-
-<details>
-<summary>Shadowrocket相关讨论主要是连接问题、订阅导入和自建节点配置排查。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 有人说更新后无法再连接自建VPS，也有人说小火箭会自动关闭。
-- 讨论里提到手动导入订阅配置、二维码订阅显示域名、如何改备注名等问题。
-- 还有用户反馈测试正常但打不开YouTube/Google，怀疑是节点或DNS问题。
 
 </details>
 
@@ -6883,6 +6756,26 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 
 <details>
 
+<summary>【Shadowrocket】Shadowrocket相关内容主要是配置、导入和使用问题。 03-24 23:47</summary>
+
+<blockquote>
+
+<details>
+<summary>Shadowrocket相关内容主要是配置、导入和使用问题。  03-24 00:28 ~ 03-24 23:47</summary>
+
+- 有人问VPN购买链接、订阅打不开、节点是否可用等问题。
+- 有消息提到懒人配置、更新配置文件后重启会恢复默认节点。
+- 也有关于小火箭能否使用美国IP、节点和S5的讨论。
+- 有用户建议不行就重装代理软件并换FLClash。
+
+</details>
+
+</blockquote>
+
+</details>
+
+<details>
+
 <summary>【Lily】Lily的公益服、公费服迁移和补偿方案引发大量讨论，焦点在保号规则、价格和直连线路。 03-23 22:57</summary>
 
 <blockquote>
@@ -6932,44 +6825,6 @@ AI 总结仅供参考，请勿将其视为唯一依据。
 - 有用户说“官网怎么登陆不上”“刚买的一年还没用两天，登录不了了”。
 - 还有“全部超时”“一直显示服务器连接失败”“垃圾青云梯，兄弟们避雷”等反馈。
 - 讨论中也有人建议换机场或排查节点、DNS等配置。
-
-</details>
-
-</blockquote>
-
-</details>
-
-<details>
-
-<summary>【ClashVergeRev】ClashVergeRev主要被用于自建节点导入、VLESS支持和配置排查。 03-11 23:52</summary>
-
-<blockquote>
-
-<details>
-<summary>ClashVergeRev主要被用于自建节点导入、VLESS支持和配置排查。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 有人询问自建VLESS节点如何导入ClashVerge，以及YAML配置怎么写。
-- 也有人问对VLESS的支持是否友好，并提到mihomo支持reality。
-- 讨论中出现“自动选择分组”“节点总是会跳”等配置行为问题。
-
-</details>
-
-</blockquote>
-
-</details>
-
-<details>
-
-<summary>【Surge】Surge的讨论集中在路由、分流、网络诊断和客户端本身的使用体验。 03-11 23:52</summary>
-
-<blockquote>
-
-<details>
-<summary>Surge的讨论集中在路由、分流、网络诊断和客户端本身的使用体验。  03-11 00:00 ~ 03-11 23:52</summary>
-
-- 有用户反馈Surge路由表异常、显示en0、导致自建节点不可用。
-- 也有人讨论Surge的更新、分流和脚本能力，提到urlrewrite、header等限制。
-- 有用户认为Surge最近表现不稳定，另有人提到需要看工具里的网络诊断。
 
 </details>
 
