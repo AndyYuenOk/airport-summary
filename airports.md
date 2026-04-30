@@ -1,6 +1,6 @@
 # 机场列表
 
-| Name　　　　　 | Channel | Group | Periodic　　　　　　　　　　    | Unlimited　 | Updated　　 | Opening | Type | Custom |
+| Name　　　　　 | Channel | Group | Periodic　　　　　　　　　　    | Unlimited　 | Updated　　 | Opening | Type | ThirdParty |
 | :--- | :--- | :--- | ---: | ---: | :--- | :--- | :--- | :--- |
 | [Nexitally](https://nexitally.com/Price.aspx) | 19,300 | - | 200G/M ¥71/M ¥624/Y | - | - | 2026-04 | Relay | - |
 | [LinkCube](https://linkcube.org/cart.php) | 5,990 | - | 100G/M ¥15/M ¥145/Y | - | - | 2022-03 | Relay | - |
@@ -34,7 +34,7 @@
 | [农夫山泉](https://qqq.nfsq.us/#/plan) | - | - | 200G/M ¥8/M ¥80/Y | 200G/¥15 | 2026-04-30 | 2026-04 | Relay | NO |
 | [次元雲](https://ciyy.cc/#/shop) | 1,170 | - | 128G/M ¥10/M 158G/M ¥108/Y | 520G/¥90 | - | 2022-03 | Relay | - |
 | [夜煞云](https://www.night-furyx.com/index.php#/plan) | 8,360 | 6,023 | 50G/M ¥58/Y <br> 138G/M ¥10/M ¥110/Y | 400G/¥106 | 2026-04-08 | 2026-04 | Relay | - |
-| [自由猫](https://freecat.cloud/console/plan) | 5,180 | 4,370 | 30G/M ¥6/M ¥72/Y | 500G/¥50 <br> 1000G/¥88 | 2026-04-30 | 2026-04 | Relay | - |
+| [自由猫](https://freecat.cloud/console/plan) | 5,180 | 4,370 | 30G/M ¥6/M ¥72/Y | 500G/¥50 <br> 1000G/¥88 | 2026-04-30 | 2026-04 | Relay | NO |
 | [ofoNET](https://ofotw.org/#/plan) | 1,470 | 1,543 | 200G/M ¥13/M ¥130/Y | - | 2026-04-30 | 2026-04 | Relay | - |
 | [蜂窝云](https://fwcloud.me/user/shop) | 1,180 | 4,169 | 200G/M ¥20/M 230G/M ¥210/Y | - | 2026-04-08 | 2026-04 | Relay | - |
 | [壹速云](https://www.onesy1.cc/user/shop) | 1,300 | 3,020 | 2000G/Y ¥88/Y | 1000G/¥188 | 2026-04-30 | 2026-04 | Relay | - |
