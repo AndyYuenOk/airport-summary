@@ -11,12 +11,12 @@
 | [AmyTelecom](https://amytele.com/cart.php) | 12,600 | - | 50G/M ¥273/Y | - | 2026-04-07 | 2026-04 | Relay |
 | [TAG](https://tagss.pro/#/shop) | - | - | 200G/Y ¥162Y <br> 250G/M ¥185/Q ¥720/Y | - | 2026-04-08 | 2026-04 | - |
 | [Kuromis](https://www.kuromis.com/personal-plan?plan_type=personal) | 12,300 | - | 50G/M ¥40/M ¥408/Y | - | - | 2026-04 | Relay |
-| [赔钱机场](https://赔钱机场.com/plan) | 45,500 | 24,098 | 100G/M ¥1.50/M ¥18.00/Y | 1000G/¥18.90 | - | 2026-04 | Direct |
+| [赔钱机场](https://赔钱机场.com/plan) | 45,500 | 24,098 | 100G/M ¥1.50/M ¥18.00/Y | 1000G/¥19 | 2026-04-30 | 2026-04 | Direct |
 | [ImmTelecom](https://immtele.com/cart.php) | 6,890 | - | 500G/M ¥72.45/M ¥745.38/Y | - | 2026-04-08 | 2026-04 | Relay |
 | [YToo](https://y-too.net/cart.php) | 12,681 | - | 15G/M ¥98/Y <br> 200G/M ¥36/M ¥372/Y | - | 2026-04-05 | 2026-04 | - |
 | [MESL](https://panel.meslcloud.com/#/shop) | - | - | 50G/M ¥155/Y | - | 2026-04-08 | 2026-04 | - |
 | [iKuuu](https://ikuuu.org/user/shop) | - | - | 300G/M ¥12/M ¥108/Y | - | - | 2022-03 | Relay |
-| [一分机场](https://一分机场.com/#/plan) | 29,900 | 25,862 | 100G/M ¥2/M ¥23.88/Y | 100G/¥11.88 <br> 1000G/¥19.88 | 2026-04-30 | 2026-04 | Direct |
+| [一分机场](https://一分机场.com/#/plan) | 29,900 | 25,862 | 100G/M ¥2/M ¥24/Y | 100G/¥12 <br> 1000G/¥20 | 2026-04-30 | 2026-04 | Direct |
 | [YkkCloud](https://panel.ykkk.best/#/shop) | 4,510 | 3,686 | 150G/M ¥14/M ¥144/Y | - | 2026-04-06 | 2026-04 | Relay |
 | [FlyingBird](https://flyingbird.cc/user/shop) | 12,200 | 6,770 | 100G/M ¥15/M ¥144/Y | - | 2026-04-06 | 2026-04 | Relay |
 | [CNIX](https://ssr.wtf/user/product) | 1,440 | 439 | 205G/M ¥25/M 2500G/Y ¥240/Y | - | - | 2022-02 | Relay |
