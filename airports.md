@@ -26,7 +26,7 @@
 | [魅影极速](https://maying.co/user/shop) | 15,500 | - | - | 500G/M ¥600/Y | - | 2026-04-08 | 2026-04 | - |
 | [山海](https://shanhai.me/#/shop) | 11,200 | 4,251 | - | 128G/M ¥15/M ¥150/Y | 128G/¥20 <br> 256G/¥35 <br> 512G/¥65 <br> 1024G/¥125 | 2026-04-30 | 2026-04 | Both |
 | [神龙机场](https://shenlong.wiki/#/stage/buysubs) | 565 | 1,987 | - | 100G/M ¥10/M ¥100/Y | 256G/¥45 <br> 512G/¥80 | 2026-04-30 | 2023-11 | Relay |
-| [EdNovas云](https://ednovas.org/#/stage/buysubs) | 6,190 | 7,771 | - | 25G/M ¥55/Y <br> 50G/M ¥108/Y | - | 2026-04-08 | 2026-04 | Relay |
+| [EdNovas云](https://ednovas.org/#/stage/buysubs) | 6,190 | 7,771 | - | 25G/M ¥68/Y <br> 50G/M ¥128/Y | - | 2026-04-30 | 2026-04 | Relay |
 | [青云梯](https://qingyunti.cc/shop) | 278 | 3,534 | - | 60G/M ¥96/Y | - | 2026-04-08 | 2022-03 | Relay |
 | [FastLink](https://fastlink.ws/user/shop) | 4,560 | - | - | 50G/M ¥90/Y | - | 2026-04-08 | 2022-02 | Relay |
 | [CloudFisher](https://cloudfisher.net/web/#/plan) | 12,600 | 9,620 | - | 148G/M ¥60/Y | 300G/¥40 <br> 1000G/¥80 | 2026-04-08 | 2026-04 | Relay |
