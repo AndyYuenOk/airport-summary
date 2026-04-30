@@ -35,11 +35,11 @@
 | [次元雲](https://ciyy.cc/#/shop) | 1,170 | - | 128G/M ¥10/M 158G/M ¥108/Y | 520G/¥90 | - | 2022-03 | Relay |
 | [夜煞云](https://www.night-furyx.com/index.php#/plan) | 8,360 | 6,023 | 50G/M ¥58/Y <br> 138G/M ¥10/M ¥110/Y | 400G/¥106 | 2026-04-08 | 2026-04 | Relay |
 | [自由猫](https://freecat.cloud/console/plan) | 5,180 | 4,370 | 30G/M ¥6/M ¥72/Y | 500G/¥50 <br> 1000G/¥88 | 2026-04-30 | 2026-04 | Relay |
-| [ofoNET](https://ofotw.org/#/plan) | 1,470 | 1,543 | 200G/M ¥9.90/M ¥99.99/Y | 384G/¥55.88 | 2026-04-07 | 2026-04 | Relay |
+| [ofoNET](https://ofotw.org/#/plan) | 1,470 | 1,543 | 200G/M ¥13/M ¥130/Y | - | 2026-04-30 | 2026-04 | Relay |
 | [蜂窝云](https://fwcloud.me/user/shop) | 1,180 | 4,169 | 200G/M ¥20/M 230G/M ¥210/Y | - | 2026-04-08 | 2026-04 | Relay |
-| [壹速云](https://www.onesy1.cc/user/shop) | 1,300 | 3,020 | 2000G/Y ¥88/Y | 1000G/¥188 | 2026-04-07 | 2026-04 | Relay |
+| [壹速云](https://www.onesy1.cc/user/shop) | 1,300 | 3,020 | 2000G/Y ¥88/Y | 1000G/¥188 | 2026-04-30 | 2026-04 | Relay |
 | [猫熊网络加速器](https://mxwljsq.com/user/shop) | 16,700 | 805 | 50G/M ¥11/M 600G/Y ¥120/Y | - | 2026-04-08 | 2026-04 | - |
-| [魔戒](https://mojie.app/shop) | 56,400 | 91,056 | - | 130G/¥14.9 | 2026-04-08 | 2026-04 | - |
+| [魔戒](https://mojie.app/shop) | 56,400 | 91,056 | - | 130G/¥15 <br> 420G/¥42 | 2026-04-30 | 2026-04 | - |
 | [咸鱼加速器](https://nexuscloud.ch/cart.php) | 938 | - | 100G/M ¥20/M ¥198/Y | - | 2026-04-07 | 2026-04 | - |
 | [泡芙云](https://paofu.cloud/user/shop) | 4,870 | 11,898 | 50G/M ¥12/M ¥130/Y | - | 2026-04-07 | 2026-04 | - |
 | [ssLinks](https://ss.mba/#/plan) | 3,637 | - | 30G/M ¥168/Y | - | 2026-04-08 | 2026-04 | - |
@@ -47,11 +47,11 @@
 | [白月光](https://bygcloud.com/store) | 17,100 | - | 100G/M ¥66/3M ¥264/Y | - | 2026-04-06 | 2026-04 | - |
 | [V2Tun](https://cp.v2-tun.net/cart.php) | 3,287 | - | 100G/M ¥42/3M ¥138/Y | - | 2026-04-06 | 2026-04 | - |
 | [海豚湾](https://hitun.io/user/shop) | 12,400 | - | 3000G/Y ¥350/Y | - | 2026-04-08 | 2026-04 | - |
-| [SSRDOG](https://dog.ssrdog.com/#/account/store) | 7,176 | - | 150/M ¥67/3M ¥240/14M | 500G/￥220 | 2026-04-09 | 2026-04 | - |
+| [SSRDOG](https://dog.ssrdog.com/#/account/store) | 7,176 | - | 300G/M ¥135/3M ¥469/14M | - | 2026-04-30 | 2026-04 | - |
 | [XFLTD](https://my.xfltd.org/#/shop) | 16,100 | - | 150G/M ¥7/M ¥77/Y <br> 1024G/2Y ¥77/2Y | 120G/￥24 <br> 250G/￥48 | 2026-04-30 | 2026-04 | - |
-| [SkyLinX](https://portal.skylinx.org/#/plan) | 16,100 | - | 50G/M ¥8/M ¥96/Y | 200G/￥40 | 2026-04-09 | 2026-04 | - |
+| [SkyLinX](https://portal.skylinx.org/#/plan) | 16,100 | - | 50G/M ¥8/M ¥96/Y | 200G/￥40 | 2026-04-30 | 2026-04 | - |
 | [ANYLAND](https://anyland.club/#/plan) | - | - | 130G/M ¥178/Y | 200G/￥128 | 2026-04-09 | 2026-04 | - |
-| [奈云](https://www.v2ny.com/#/stage/buysubs) | - | - | 168G/M ¥128/Y | 280G/￥118 | 2026-04-09 | 2026-04 | - |
+| [奈云](https://www.v2ny.com/#/stage/buysubs) | - | - | 168G/M ¥168/Y | 280G/￥138 | 2026-04-30 | 2026-04 | - |
 | [泡泡Dog](https://www.paopao.dog/#/plan) | 8,140 | 11,264 | 888G/Y ¥116/Y | - | 2026-04-09 | 2022-04 | - |
 | [CyberGuard](https://www.cyberguard.best/#/shop) | 806 | 3,033 | 100G/M ¥160/Y | 200G/¥79 | 2026-04-09 | 2024-10 | - |
 | [BigME](https://user.bigme.pro/user#/plan) | - | - | 45G/M ¥6/M ¥62/Y | 400G/¥60 | 2026-04-09 | 2023-?? | - |
